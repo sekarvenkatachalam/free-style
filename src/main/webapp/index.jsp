@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML>
 <HEAD>
-<TITLE>KAARALA</TITLE>
+<TITLE>SEKAR</TITLE>
 	<style>
 		p {
  			 color: white;
